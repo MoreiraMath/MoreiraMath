@@ -1,4 +1,14 @@
-### Hi there 👋
+✨ Olá! Seja bem-vindo ao meu perfil de desenvolvedor! ✨
+
+Sinta-se livre para compartilhar, comentar e avaliar meus projetos. 🔭
+
+Abaixo, segue a URL de algumas das minhas contribuições para a comunidade:
+
+# Meus Principais Projetos
+
+- URL 1
+
+- URL 2
 
 <!--
 **MoreiraMath/MoreiraMath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
